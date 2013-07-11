@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>tests</name>
+	<name>NotePadTest</name>
 	<comment></comment>
 	<projects>
+		<project>NotesList</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

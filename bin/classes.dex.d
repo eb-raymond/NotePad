@@ -17,4 +17,3 @@
 /Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/R.class \
 /Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/TitleEditor.class \
 /Users/raymond/Projects/RaymondTestProject/NotePad/bin/dexedLibs/annotations-cf711a8e6fbc4e0fbc2bdd831d15c011.jar \
-/Users/raymond/Projects/RaymondTestProject/NotePad/bin/dexedLibs/emma_device-89da8a9ce2c1f14792d30b9b3f1814a9.jar \
