@@ -1,0 +1,20 @@
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes.dex : \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/BuildConfig.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/NoteEditor$LinedEditText.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/NoteEditor.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/NotePad$NoteColumns.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/NotePad.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/NotePadProvider$DatabaseHelper.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/NotePadProvider.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/NotesList.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/NotesLiveFolder.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/R$attr.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/R$drawable.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/R$id.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/R$layout.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/R$menu.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/R$string.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/R.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/classes/com/example/android/notepad/TitleEditor.class \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/dexedLibs/annotations-cf711a8e6fbc4e0fbc2bdd831d15c011.jar \
+/Users/raymond/Projects/RaymondTestProject/NotePad/bin/dexedLibs/emma_device-89da8a9ce2c1f14792d30b9b3f1814a9.jar \
